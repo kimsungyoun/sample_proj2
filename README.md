@@ -1,1 +1,1 @@
-# sample_project2
+# sample_proj2
